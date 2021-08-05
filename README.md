@@ -1,6 +1,6 @@
 # interpret-lm-knowledge
 
-**Idea**: How do we understand what a language model is learning at various stages of training? Language models have been recently described as [open knowledge bases](https://github.com/facebookresearch/LAMA). We can generate knowledge graphs by extracting relation triples from masked language models at various stages of training to examine the knowledge acquisition process.  
+**Idea**: How do we interpret what a language model is learning at various stages of training? Language models have been recently described as [open knowledge bases](https://github.com/facebookresearch/LAMA). We can generate knowledge graphs by extracting relation triples from masked language models at sequential epochs or architecture variants to examine the knowledge acquisition process.  
 
 **Dataset**: Squad, Google-RE (from LAMA paper)  
 

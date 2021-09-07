@@ -6,7 +6,7 @@
 
 **Models**: BERT, RoBeRTa, DistilBert, training RoBERTa from scratch
 
-**Contributors**: [Vinitra Swamy](https://github.com/vinitra), [Angelika Romanou](https://github.com/agromanou), Karl Aberer, [Martin Jaggi](https://github.com/martinjaggi)
+**Contributors**: [Vinitra Swamy](https://github.com/vinitra), [Angelika Romanou](https://github.com/agromanou), [Martin Jaggi](https://github.com/martinjaggi)
 
 ## Quick Start Guide
 ### Pretrained Model (BERT, DistilBERT, RoBERTa) -> KG

@@ -1,4 +1,4 @@
-# interpret-lm-knowledge
+# Interpreting Language Models Through Knowledge Graph Extraction
 
 **Idea**: How do we interpret what a language model learns at various stages of training? Language models have been recently described as [open knowledge bases](https://github.com/facebookresearch/LAMA). We can generate knowledge graphs by extracting relation triples from masked language models at sequential epochs or architecture variants to examine the knowledge acquisition process.  
 

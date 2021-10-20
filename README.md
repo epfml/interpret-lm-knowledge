@@ -51,7 +51,7 @@ run_experiments(tokenizer, model, unmasker, "Roberta3e")
 @inproceedings{swamy2021interpreting,
  author = {Swamy, Vinitra and Romanou, Angelika and Jaggi, Martin},
  booktitle = {Advances in Neural Information Processing Systems, Workshop on eXplainable AI Approaches for Debugging and Diagnosis},
- title={Interpreting Language Models Through Knowledge Graph Extraction},
+ title = {Interpreting Language Models Through Knowledge Graph Extraction},
  volume = {34},
  year = {2021}
 }

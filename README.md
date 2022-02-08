@@ -24,7 +24,7 @@ cd interpret-lm-knowledge/scripts
 e.g. `squad Bert spacy`  
 e.g. `re-place-birth Roberta`    
 
-options:  
+optional parameters:  
 ```
 dataset=squad - "squad", "re-place-birth", "re-date-birth", "re-place-death"  
 model=Roberta - "Bert", "Roberta", "DistilBert"  

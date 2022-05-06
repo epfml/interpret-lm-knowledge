@@ -8,7 +8,7 @@
 
 **Authors**: [Vinitra Swamy](https://github.com/vinitra), [Angelika Romanou](https://github.com/agromanou), [Martin Jaggi](https://github.com/martinjaggi)
 
-This repository is the official implementation of the [NeurIPS 2021 XAI4Debugging](https://xai4debugging.github.io/) paper titled ["Interpreting Language Models Through Knowledge Graph Extraction"](link:tba). Found this work useful? Please [cite our paper](#citations).
+This repository is the official implementation of the [NeurIPS 2021 XAI4Debugging](https://xai4debugging.github.io/) paper titled ["Interpreting Language Models Through Knowledge Graph Extraction"](https://arxiv.org/pdf/2111.08546.pdf). Found this work useful? Please [cite our paper](#citations).
 
 ## Quick Start Guide
 ### Pretrained Model (BERT, DistilBERT, RoBERTa) -> Knowlege Graph
